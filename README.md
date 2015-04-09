@@ -5,7 +5,7 @@ Excellent Analytics is an addin for Microsoft Excel that makes it possible to fe
 
 # About
 
-[About the Excellent Analytics](https://github.com/Outfox/excellent-analytics/wiki/About-Excellent-Analytics-Open-Source)
+[About Excellent Analytics](https://github.com/Outfox/excellent-analytics/wiki/About-Excellent-Analytics-Open-Source)
 
 
 # Download
