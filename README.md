@@ -3,6 +3,11 @@ Excellent Analytics
 
 Excellent Analytics is an addin for Microsoft Excel that makes it possible to fetch data from Google Analytics to a spreadsheet.
 
+# About
+
+[About the Excellent Analytics](https://github.com/Outfox/excellent-analytics/wiki/About-Excellent-Analytics-Open-Source)
+
+
 # Download
 
 Clone this repository.
